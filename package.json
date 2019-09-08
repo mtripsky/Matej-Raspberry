@@ -20,5 +20,8 @@
   "homepage": "https://github.com/mtripsky/Matej-Raspberry#readme",
   "devDependencies": {
     "pm2": "^3.5.1"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
   }
 }
