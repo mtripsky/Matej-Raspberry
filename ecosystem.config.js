@@ -7,7 +7,7 @@ module.exports = {
     production: {
       user: 'ubuntu',
       host: 'ec2-3-15-179-48.us-east-2.compute.amazonaws.com',
-      key: '~/.ssh/id_rsa.pub',
+      key: '~/.ssh/todo-matej.pem',
       ref: 'origin/master',
       repo: 'https://github.com/mtripsky/Matej-Raspberry.git',
       path: '/home/ubuntu/Matej-Raspberry',
